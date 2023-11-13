@@ -1,6 +1,9 @@
 <img align="center" width="1000" src="https://user-images.githubusercontent.com/22680912/46479049-d8a9c400-c80b-11e8-92a1-89fc10701f4a.jpg"/>
 
 <h1 align="center">Hi 👋, I'm Kartikeyan TR</h1>
+<p align="right">
+  <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Front+End+Developer;Programmer;Tech+Enthusiast;CSE+Undergraduate;Movie+Buff;News+Enthusiast"/>
+<br>
 <h3 align="center">A passionate fullstack developer currently in my final year from MIT, Anna University</h3>
 <img align="right" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e479ep3ulosc5lv43fpwqc40klh4iybrppg47bwgcam&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 
